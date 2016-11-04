@@ -32,7 +32,7 @@ libxrender-dev zlib1g-dev libxinerama-dev libxcomposite-dev libxdamage-dev libxf
 Now get the source, build and install:
 
 ```sh
-git clone https://github.com/richardgv/skippy-xd.git
+git clone https://github.com/antonio-malcolm/skippy-xd.git
 cd skippy-xd
 make
 make install
